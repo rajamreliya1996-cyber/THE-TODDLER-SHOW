@@ -1,0 +1,88 @@
+topics.json
+
+1. Why should we respect parents?
+2. Krishna and the butter story
+3. Clean hands before eating
+4. Sharing toys with friends
+5. Namaste and respecting elders
+6. Diwali diya story
+7. Helping grandmother
+8. Ganesh and the little mouse
+9. Hanuman and shree Ram 
+10. Bholenath story[
+  {
+    "id": 1,
+    "topic": "Namaste and respecting elders",
+    "category": "Indian Values"
+  },
+  {
+    "id": 2,
+    "topic": "Sharing toys with friends",
+    "category": "Good Habits"
+  },
+  {
+    "id": 3,
+    "topic": "Helping mother at home",
+    "category": "Family Values"
+  },
+  {
+    "id": 4,
+    "topic": "Why we should keep our hands clean",
+    "category": "Good Habits"
+  },
+  {
+    "id": 5,
+    "topic": "Being kind to animals",
+    "category": "Kindness"
+  },
+  {
+    "id": 6,
+    "topic": "Respecting grandparents",
+    "category": "Family Values"
+  },
+  {
+    "id": 7,
+    "topic": "Little Krishna and sharing",
+    "category": "Indian Stories"
+  },
+  {
+    "id": 8,
+    "topic": "Ganesha and the little mouse",
+    "category": "Indian Stories"
+  },
+  {
+    "id": 9,
+    "topic": "Diwali and the little diya",
+    "category": "Indian Festivals"
+  },
+  {
+    "id": 10,
+    "topic": "Helping a friend who is sad",
+    "category": "Kindness"
+  },
+  {
+    "id": 11,
+    "topic": "Why we should say thank you",
+    "category": "Good Manners"
+  },
+  {
+    "id": 12,
+    "topic": "Why we should say sorry",
+    "category": "Good Manners"
+  },
+  {
+    "id": 13,
+    "topic": "Eating healthy fruits",
+    "category": "Learning"
+  },
+  {
+    "id": 14,
+    "topic": "Putting toys back after playing",
+    "category": "Good Habits"
+  },
+  {
+    "id": 15,
+    "topic": "Helping father in the garden",
+    "category": "Family Values"
+  }
+]
